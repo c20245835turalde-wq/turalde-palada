@@ -1,0 +1,7 @@
+{
+  "name": "volt-site-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix turaldee-palada run dev --"
+  }
+}
